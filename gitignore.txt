@@ -1,0 +1,3 @@
+aws_env
+.aws_env
+.__pycache__
